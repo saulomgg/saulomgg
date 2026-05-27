@@ -1,33 +1,31 @@
-# Hello, I'm Saulomg2 👋
+# Olá, eu sou Saulo Moreira 👋
 
-## About Me
-Hi! I'm **Saulo Moreira**, a seasoned programmer and tech enthusiast with a passion for creating efficient, innovative solutions. With over a decade of experience in web development, automation, and cutting-edge technologies, I thrive on turning complex challenges into simple, scalable solutions.
+## Sobre mim
 
-### 👨‍💻 Specialties:
-- Web Development: HTML, CSS, JavaScript, Python
-- Automation: Scripts, Tools, Custom Solutions
-- Blockchain & Cryptocurrency
-- Data Science & AI
+Desenvolvedor focado em automação, desenvolvimento web e criação de ferramentas digitais utilizando Python e outras tecnologias voltadas para soluções práticas e escaláveis.
 
-### 🌱 Currently Exploring:
-- Machine Learning
-- Blockchain Development
-- AI-Based Solutions
-- Advanced Web Technologies
+Atuo desde 2012 na área de tecnologia, desenvolvendo projetos independentes relacionados a automações, processamento de imagens, integrações com APIs, sistemas web e ferramentas experimentais.
 
-### 💡 Key Projects:
-- Developed automation tools
-- Multimedia programs for mass image processing
-- iGaming solutions
+Tenho experiência em desenvolvimento completo de projetos, desde a criação da interface até a lógica, estrutura e implementação das funcionalidades.
 
-### 🤝 Let's Collaborate:
-I'm open to working on **open-source projects**, **blockchain**, and **AI-driven applications**. Feel free to reach out if you're working on innovative **automation tools** or other exciting tech.
+## 👨‍💻 Principais Tecnologias
+- Python
+- JavaScript
+- HTML & CSS
+- Automação de Processos
+- Integração de APIs
+- Ferramentas Web
+- Processamento de Imagens
+- Desenvolvimento de Scripts
 
-## Contact Me
-📫 **Get in touch:**  
-[Linktree](https://stampsynk.com)  
-Feel free to connect for collaboration or insights!
+## 🚀 Áreas de Interesse
+- Inteligência Artificial
+- Blockchain & Criptomoedas
+- Automação
+- Desenvolvimento Web
+- Ferramentas Digitais
+- Projetos Experimentais
 
-## 🔗 Find Me On
-- **GitHub:** [@Saulomg2](https://github.com/Saulomg2)
-- **LinkedIn:** [Saulo Moreira](https://linkedin.com/in/saulomoreira)
+## 📂 Sobre este GitHub
+
+Este perfil reúne projetos pessoais, ferramentas, automações, testes e estudos desenvolvidos ao longo dos anos, com foco em aprendizado contínuo, criação de soluções úteis e exploração de novas tecnologias.
