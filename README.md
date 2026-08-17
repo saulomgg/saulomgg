@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3ESystem.init%28%29...+Saulo+online" alt="Typing SVG" />
 
-# SAULOMGG
+# saulomgg
 
 ### `Full Stack Developer` · `Automator` · `Tool Builder` · `Since 2012`
 
