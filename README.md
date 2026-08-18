@@ -2,7 +2,7 @@
 
 # SAULOMMG
 
-### `Full Stack Developer` · `Automator` · `Tool Builder` · `Desde 2012`
+### `Full Stack Developer` · `Automator` · `Tool Builder`
 
 [![Site](https://img.shields.io/badge/site-saulomgg.github.io-00e5ff?style=for-the-badge&logo=github)](https://saulomgg.github.io)
 [![Community](https://img.shields.io/badge/community-S0m9Net-ff3333?style=for-the-badge)](https://t.me/S0M9Net)
@@ -18,7 +18,7 @@
 ```bash
 $ cat /dev/saulo
 Nome: Saulo
-Desde: 2012
+Stack: Python · JavaScript · React · Node · APIs
 Stack: Python · JavaScript · React · Node · APIs
 Foco: PWAs locais, automações, ferramentas Windows, serviços sob medida
 ```
