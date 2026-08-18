@@ -1,101 +1,60 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3ESystem.init%28%29...+Saulo+online" alt="Typing SVG" />
+# ⚡ SAULOMMG
 
-# saulomgg
+### `Full Stack Developer` · `Automator` · `Tool Builder` · `Desde 2012`
 
-### `Full Stack Developer` · `Automator` · `Tool Builder` · `Since 2012`
-
-[![Site](https://img.shields.io/badge/Site-saulomgg.github.io-00FF41?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saulomgg.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-saulomgg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saulomgg)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5522988195993)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/docegestor)
+[![Site](https://img.shields.io/badge/site-saulomgg.github.io-00e5ff?style=for-the-badge&logo=github)](https://saulomgg.github.io)
+[![Community](https://img.shields.io/badge/community-S0m9Net-ff3333?style=for-the-badge)](https://t.me/S0M9Net)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-grupo-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/BntopSDTuvn1sx0XoAd4iY?s=cl&p=a&ilr=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saulo_MGG-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saulomgg/)
 
 </div>
 
 ---
 
-## `> whoami`
+## // quem sou
 
-```bash
-$ cat /dev/saulo
-Nome: Saulo
-Desde: 2012
-Stack: Python, JavaScript, HTML/CSS, APIs, Automação
-Foco: Ferramentas digitais, PWAs, automação, AI, Blockchain
-```
-
-Desenvolvedor **full stack** focado em **automação**, **desenvolvimento web** e **criação de ferramentas digitais**. Atuo desde **2012** construindo projetos independentes — de automações com Python a PWAs completos com React.
+Desenvolvedor **full stack** focado em **automação**, **desenvolvimento web** e **criação de ferramentas digitais**. Atuo desde **2012** construindo projetos independentes — de automações com Python a PWAs completos.
 
 ---
 
-## `> ls ./projetos`
+## // o ecossistema
 
-### 📱 Progressive Web Apps
+Aplicativos locais e 100% privados. Pague uma vez, use para sempre. Seus dados nunca saem do seu dispositivo.
 
-| Projeto | Status | Link |
-|---------|--------|------|
-| **DoceGestor** | ✅ Ativo (Premium) | [docegestor.pages.dev](https://docegestor.pages.dev) |
-| **Reméd** | ✅ Online | [remed-pwa](https://github.com/saulomgg/remed-pwa) |
-| **MeuPet** | ✅ Online | [meupet-pwa](https://github.com/saulomgg/meupet-pwa) |
-| **Controle+** | ✅ Online | [controleplus-pwa](https://github.com/saulomgg/controleplus-pwa) |
+**Gestores (Premium)**
+- **DoceGestor** — precificação e vendas para confeitarias
+- **JurisGestor** — prazos e honorários para advogados
+- **OrçaGestor** — orçamentos profissionais em PDF
 
-### 🖥️ Ferramentas Windows
+**Ferramentas (Premium)**
+- **PDFGestor** — editar, unir e comprimir PDFs
+- **FotoGestor** — comprimir, converter e marcar imagens
+- **MediaGestor** — cortar, juntar e converter vídeos
 
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| **HubSynk** | Hub central de apps e downloads | [GitHub](https://github.com/saulomgg/HubSynk) · [Download v1.0](https://github.com/saulomgg/HubSynk/releases/tag/v1.0) |
-| **ConvertSynk** | Conversor de arquivos | [GitHub](https://github.com/saulomgg/convertsynk) |
-| **AudioSynk** | Processador de áudio | [GitHub](https://github.com/saulomgg/audiosynk) |
-| **MetaSynk** | Gerenciador de metadados | [GitHub](https://github.com/saulomgg/metasynk) |
-| **PDFSynk** | Manipulador de PDFs | [GitHub](https://github.com/saulomgg/pdfsynk) |
+**Grátis (Open)**
+- **Reméd** — controle de medicamentos
+- **MeuPet** — gestão de pets
+- **Controle+** — gestão de assinaturas
 
-### 🧪 Experimentos & Automações
-
-Scripts Python, processamento de imagens, bots, integrações com APIs e projetos experimentais variados.
+**Windows (HubSynk)**
+- **HubSynk** — hub central com segurança criptográfica
+- **ConvertSynk** · **AudioSynk** · **MetaSynk** · **PDFSynk**
 
 ---
 
-## `> cat ./skills`
+## // comunidade S0m9Net
 
-```python
-skills = {
-    "languages": ["Python", "JavaScript", "TypeScript", "HTML", "CSS"],
-    "frameworks": ["React", "Next.js", "Express", "FastAPI", "Flask"],
-    "tools": ["Git", "Docker", "Cloudflare", "Firebase", "Supabase"],
-    "focus": ["Automação", "PWAs", "APIs", "Web Scraping", "AI", "Blockchain"],
-}
-```
+- **Telegram:** [t.me/S0M9Net](https://t.me/S0M9Net)
+- **WhatsApp:** [Grupo](https://chat.whatsapp.com/BntopSDTuvn1sx0XoAd4iY?s=cl&p=a&ilr=1)
 
 ---
 
-## `> echo $GITHUB_STATS`
-
-![Saulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saulomgg&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saulomgg&layout=compact&theme=radical&hide_border=true)
-
----
-
-## `> ping contato`
+## // contato
 
 | Canal | Link |
 |-------|------|
-| 🌐 Site | [saulomgg.github.io](https://saulomgg.github.io) |
-| 💬 WhatsApp | [(22) 98819-5993](https://wa.me/5522988195993) |
-| 📢 Telegram | [@docegestor](https://t.me/docegestor) |
-| 💻 GitHub | [saulomgg](https://github.com/saulomgg) |
-
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────┐
-│  [ SYSTEM ]  Powered by Saulo MGG            │
-│  [ STATUS ]  Online since 2012               │
-│  [ NEXT   ]  Always building...              │
-└─────────────────────────────────────────────┘
-```
-
-</div>
+| Site | [saulomgg.github.io](https://saulomgg.github.io) |
+| LinkedIn | [saulomgg](https://www.linkedin.com/in/saulomgg/) |
+| GitHub | [saulomgg](https://github.com/saulomgg) |
