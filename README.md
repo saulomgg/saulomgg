@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ SAULOMMG
+# SAULOMMG
 
 ### `Full Stack Developer` · `Automator` · `Tool Builder` · `Desde 2012`
 
