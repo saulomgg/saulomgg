@@ -19,7 +19,6 @@
 $ cat /dev/saulo
 Nome: Saulo
 Stack: Python · JavaScript · React · Node · APIs
-Stack: Python · JavaScript · React · Node · APIs
 Foco: PWAs locais, automações, ferramentas Windows, serviços sob medida
 ```
 
