@@ -1,13 +1,14 @@
 <div align="center">
 
-# SAULOMMG
+# saulo_mgg
 
-### `Full Stack Developer` · `Automator` · `Tool Builder`
+### `Apps Grátis` · `Privados` · `Offline`
 
 [![Site](https://img.shields.io/badge/site-saulomgg.github.io-00e5ff?style=for-the-badge&logo=github)](https://saulomgg.github.io)
-[![Community](https://img.shields.io/badge/community-S0m9Net-ff3333?style=for-the-badge)](https://t.me/S0M9Net)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-grupo-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/BntopSDTuvn1sx0XoAd4iY?s=cl&p=a&ilr=1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saulo_MGG-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saulomgg/)
+[![Instagram](https://img.shields.io/badge/Instagram-@saulo__mgg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saulo_mgg)
+[![Community](https://img.shields.io/badge/community-S0m9Net-ff3333?style=for-the-badge)]()
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-grupo-25D366?style=for-the-badge&logo=whatsapp)]()
+[![Apoie](https://img.shields.io/badge/apoie-os_projetos-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white)](https://link.mercadopago.com.br/saulomgg)
 
 </div>
 
@@ -17,121 +18,104 @@
 
 ```bash
 $ cat /dev/saulo
-Nome: Saulo
-Stack: Python · JavaScript · React · Node · APIs
-Foco: PWAs locais, automações, ferramentas Windows, serviços sob medida
+Nome:     saulo_mgg
+Missão:   apps gratuitos, privados e que funcionam offline
+Objetivo: diminuir os custos de quem trabalha e empreende
+Regra:    sem cadastro · dados no seu aparelho
 ```
 
-Desenvolvedor **full stack** focado em **automação**, **desenvolvimento web** e **criação de ferramentas digitais**. Atuo desde **2012** construindo projetos independentes — de automações com Python a PWAs completos. O ecossistema é **descentralizado**: cada app roda 100% no dispositivo do usuário, os dados nunca saem de lá, e o pagamento é **único e vitalício**.
+Eu crio **apps gratuitos** para você **economizar**: menos mensalidade, menos planilha espalhada, menos gasto com sistema. Cada app roda **no seu aparelho**, funciona **offline** e pode ser instalado no celular ou no computador.
 
 ---
 
-## `> ls ./ecossistema`
+## `> ls ./apps-gratis`
 
-### 📱 Gestores (Premium)
-
-| App | Nicho | Site Oficial | Mercado Livre |
-|-----|-------|-------------|---------------|
-| **DoceGestor** | Confeitaria | [docegestor.github.io](https://docegestor.github.io/) | [Comprar](https://www.mercadolivre.com.br/docegestor-sistema-para-confeitaria--precificacao-e-vendas/up/MLBU4686356819?pdp_filters=item_id:MLB7401439782) |
-| **JurisGestor** | Advogados | [jurigestor.github.io](https://jurigestor.github.io/) | [Comprar](https://www.mercadolivre.com.br/jurisgestor-software-advogado-controle-prazos-app-vitalicio/up/MLBU4715764333?pdp_filters=item_id:MLB5065004315) |
-| **OrçaGestor** | Prestadores | [orcamentoexpress.github.io](https://orcamentoexpress.github.io/) | [Comprar](https://www.mercadolivre.com.br/sistema-de-orcamento-online-profissional--pdf-e-whatsapp/up/MLBU4763330633?pdp_filters=item_id:MLB5082154381) |
-
-### 🛠️ Ferramentas (Premium)
-
-| App | Função | Site Oficial | Mercado Livre |
-|-----|--------|-------------|---------------|
-| **PDFGestor** | Editar, unir, comprimir PDFs | [pdfgestor.github.io](https://pdfgestor.github.io/) | [Comprar](https://www.mercadolivre.com.br/pdfgestor-softwareapp-editar-pdf-unir-separar-comprimir/up/MLBU4770696024?pdp_filters=item_id:MLB7431730914) |
-| **FotoGestor** | Comprimir, converter HEIC→JPG | [fotogestor.github.io](https://fotogestor.github.io/) | [Comprar](https://www.mercadolivre.com.br/fotogestor-comprimir-converter-heic-jpg-marca-agua-pdf-vital/up/MLBU4742622173?pdp_filters=item_id:MLB7432243572) |
-| **MediaGestor** | Cortar, juntar, converter vídeos | [mediagestor.github.io](https://mediagestor.github.io/) | [Comprar](https://www.mercadolivre.com.br/mediagestor-editar-video-cortar-juntar-comprimir-converter/up/MLBU4743384683?pdp_filters=item_id:MLB5075740381) |
-
-### 🆓 Grátis (Open)
-
-| App | Função | Repositório |
-|-----|--------|-------------|
-| **Reméd** | Controle de medicamentos | [remed-pwa](https://github.com/saulomgg/remed-pwa) |
-| **MeuPet** | Gestão de pets | [meupet-pwa](https://github.com/saulomgg/meupet-pwa) |
-| **Controle+** | Gestão de assinaturas | [controleplus-pwa](https://github.com/saulomgg/controleplus-pwa) |
-
-### 🖥️ Windows (HubSynk)
-
-| Tool | Descrição | Repositório |
-|------|-----------|-------------|
-| **HubSynk** | Hub central com segurança criptográfica RSA 4096 | [HubSynk](https://github.com/saulomgg/HubSynk) |
-| **ConvertSynk** | Conversor de arquivos | [convertsynk](https://github.com/saulomgg/convertsynk) |
-| **AudioSynk** | Processador de áudio | [audiosynk](https://github.com/saulomgg/audiosynk) |
-| **MetaSynk** | Editor de metadados | [metasynk](https://github.com/saulomgg/metasynk) |
-| **PDFSynk** | Manipulador de PDFs | [pdfsynk](https://github.com/saulomgg/pdfsynk) |
+| App | Para quem | Abrir | Código |
+|-----|-----------|-------|--------|
+| 🍰 **DoceGestor** | Confeiteiras | [Usar grátis](https://docegestor.github.io/app/) | [Site](https://docegestor.github.io/) |
+| 🧾 **Orçamento Express** | Prestadores de serviço | [Usar grátis](https://orcamentoexpress.github.io/app/) | [Site](https://orcamentoexpress.github.io/) |
+| 💊 **Reméd** | Controle de medicamentos | [Usar grátis](https://remed.github.io/) | [Código](https://remedgithub.io/) |
+| 🐾 **MeuPet** | Gestão de pets | [Usar grátis](https://meupet.github.io/) | [Código](https://github.com/saulomgg/meupet-pwa) |
+| 💳 **Controle+** | Gestão de assinaturas | [Usar grátis](https://controleplus.github.io/) | [Código](https://github.com/saulomgg/controleplus-pwa) |
 
 ---
 
-## `> cat ./manifesto`
+## `> cat ./seguranca`
 
 ```json
 {
-  "filosofia": "local-first",
-  "privacidade": "total",
+  "cadastro": false,
   "mensalidade": 0,
-  "pagamento": "1x vitalício",
-  "comunidade": "S0m9Net",
-  "ciclo": "app vendido → financia app gratuito"
+  "dados": "ficam no seu dispositivo",
+  "servidor_com_seus_dados": "nenhum",
+  "offline": "depois do primeiro acesso",
+  "venda_de_dados": false
 }
 ```
 
-- **Privacidade real** — nada é enviado para a nuvem, seus dados ficam só com você
-- **Funciona offline** — PWAs instaláveis no celular e no PC
-- **1 chave · 3 aparelhos** — pagamento único, ativação vitalícia
-- **Atualizações grátis** — quem compra recebe as próximas versões sem custo
+- **Sem cadastro** — abra o app e use, não existe conta central acompanhando você
+- **Dados com você** — tudo fica no navegador e no aparelho que você usa
+- **Funciona offline** — depois do primeiro acesso, você usa sem internet
+- **Backup nas suas mãos** — exporte seus dados quando quiser
 
 ---
 
-## `> cat ./skills`
+## `> cat ./codigo`
 
-```python
-skills = {
-    "languages": ["Python", "JavaScript", "TypeScript", "HTML", "CSS"],
-    "frameworks": ["React", "Next.js", "Express", "FastAPI", "Flask"],
-    "integrations": ["Google Developer API", "Firebase", "Supabase", "Cloudflare"],
-    "payments": ["PIX", "Stripe", "Crypto", "Hotmart", "Mercado Pago"],
-    "tools": ["Git", "Docker", "Three.js", "GSAP", "Tailwind"],
-    "focus": [
-        "PWAs offline-first",
-        "Automação & bots",
-        "Bots & extensões",
-        "Sistemas de pagamento & crypto",
-        "APIs & web scraping",
-        "AI & machine learning",
-        "Segurança criptográfica (RSA 4096)"
-    ],
-}
+O código é **limpo e simples**, feito para fazer uma coisa bem feita. **Nenhum servidor meu recebe os seus dados.**
+
+```bash
+$ app --conexao
+Única conexão:  atualização do programa
+Atualização:    layout · novas funções · melhorias
+Seus dados:     nunca saem do seu aparelho
 ```
 
----
-
-## `> ls ./servicos`
-
-| Serviço | Descrição |
-|---------|-----------|
-| **Sites + App exclusivo** | Site completo com SEO avançado + PWA sob medida para o seu nicho (a partir de R$250) |
-| **Sistemas & PWAs** | Apps de gestão, vendas, agendamento, calculadoras — desenvolvidos sob medida |
-| **Automações** | Bots, scrapers, integrações com APIs, processamento de dados |
+Atualizar o app muda **apenas o programa**: o visual, novas funções e correções. Integrações opcionais (como planilha Google ou Google Agenda) só acontecem se **você** ativar.
 
 ---
 
-## `> ping S0m9Net`
+## `> ping comunidade`
 
-A comunidade **S0m9Net** é o motor do ecossistema. Cada compra financia o desenvolvimento de novos apps gratuitos e atualizações. Entre nos grupos para feedback, avisos e lançamentos.
+Os apps evoluem **de acordo com o uso**. Se um app te serviu, interaja de alguma forma, porque é isso que mostra o que vale a pena melhorar:
 
-- **Telegram:** [t.me/S0M9Net](https://t.me/S0M9Net)
-- **WhatsApp:** [Grupo](https://chat.whatsapp.com/BntopSDTuvn1sx0XoAd4iY?s=cl&p=a&ilr=1)
+- ⭐ **Deixe uma estrela** nos repositórios do GitHub
+- 📲 **Compartilhe** com quem também precisa
+- 💬 **Mande sugestão ou problema** na comunidade
+- 📸 **Siga no Instagram:** [@saulo_mgg](https://instagram.com/saulo_mgg)
+- 💛 **Apoie** com o valor que puder
+
+> [!TIP]
+> Apoiar não libera recursos pagos, não cria mensalidade e não muda a privacidade dos apps.
+
+<div align="center">
+
+[![Apoie os projetos](https://img.shields.io/badge/💛_Apoie_os_projetos-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white)](https://link.mercadopago.com.br/saulomgg)
+
+</div>
+
+---
+
+## `> ping sustentavel`
+
+A intenção é construir **apps sustentáveis**: gratuitos para quem usa, mantidos por quem acredita no projeto. Quanto mais gente colabora, seja **usando, divulgando, dando retorno ou apoiando**, mais tempo eu consigo dedicar para melhorar os apps e criar novos.
+
+Entre, participe e ajude a decidir o que vem a seguir:
+
 
 ---
 
 ## `> ping contato`
 
+Precisa de um **trabalho ou projeto**? Chame por **qualquer um dos links abaixo**, o que for mais fácil para você:
+
 | Canal | Link |
 |-------|------|
-| Site | [saulomgg.github.io](https://saulomgg.github.io) |
+| Instagram | [@saulo_mgg](https://instagram.com/saulo_mgg) |
+| WhatsApp | [Grupo]() |
+| Telegram | [t.me/S0M9Net]() |
 | LinkedIn | [saulomgg](https://www.linkedin.com/in/saulomgg/) |
+| Site | [saulomgg.github.io](https://saulomgg.github.io) |
 | GitHub | [saulomgg](https://github.com/saulomgg) |
 
 ---
@@ -141,7 +125,7 @@ A comunidade **S0m9Net** é o motor do ecossistema. Cada compra financia o desen
 ```
 ┌─────────────────────────────────────────────┐
 │  [ SYSTEM ]  Saulomgg HUB · v4.4            │
-│  [ STATUS ]  Online · pagamento único       │
+│  [ STATUS ]  Online · apps grátis           │
 │  [ NEXT   ]  Sempre construindo...          │
 └─────────────────────────────────────────────┘
 ```
